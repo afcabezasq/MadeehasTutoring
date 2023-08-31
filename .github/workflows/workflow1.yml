@@ -5,6 +5,7 @@ on:
     branches: ['main']
 
 job:
-  - name: Print hello
-    run: |
-      echo "Hello"
+  Print-Hello:
+    - name: Print hello
+      run: |
+        echo "Hello"
