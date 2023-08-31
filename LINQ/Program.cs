@@ -19,4 +19,10 @@ void PrintValues(IEnumerable<Book> booksList)
 // PrintValues(collectionQueries.WholeCollection());
 
 //Print books more than 250 pages
-PrintValues(collectionQueries.BooksMoreThan250Pages("Java"));
+// PrintValues(collectionQueries.BooksMoreThan250Pages("Java"));
+
+// Print if all the books have status
+// Console.WriteLine(collectionQueries.AllBooksHasStatus());
+//Console.WriteLine(collectionQueries.IsThereAPublishedBookIn2005());
+// PrintValues(collectionQueries.BooksCategoryJavaTop5Skip2());
+PrintValues(collectionQueries.BooksTitlesNotAvaible());

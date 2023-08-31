@@ -9,11 +9,13 @@ namespace LINQ
         public string[] Authors { get; set; }
         public string[] Categories { get; set; }
 
+        public string? LongDescription { get; set; }
+
 
         public override string ToString()
         {
             //String interpolation
-            return $"Title: {Title}, Number Of Pages: {PageCount}, Status: {Status}, Publish Date: {PublishedDate}";
+            return $"Title: {Title}, Number Of Pages: {PageCount}, Status: {Status}, Publish Date: {PublishedDate}, Long Description: {LongDescription}";
             // f""
             // $``
         }
