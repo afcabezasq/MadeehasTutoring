@@ -1,0 +1,10 @@
+name: My first workflow
+
+on:
+  push:
+    branches: ['main']
+
+job:
+  - name: Print hello
+    run: |
+      echo "Hello"
