@@ -33,7 +33,7 @@ void PrintValues(IEnumerable<Book> booksList)
 //Print whole collection
 // PrintValues(collectionQueries.WholeCollection());
 
-Print books more than 250 pages
+// Print books more than 250 pages
 PrintValues(collectionQueries.BooksMoreThan250Pages("Java"));
 
 // Print if all the books have status
