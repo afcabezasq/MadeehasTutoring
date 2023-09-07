@@ -21,6 +21,8 @@ jobs:
 
       - name: Build application
         run: dotnet build
+        working-directory: LINQ
 
       - name: Run application
         run: dotnet run
+        working-directory: LINQ
