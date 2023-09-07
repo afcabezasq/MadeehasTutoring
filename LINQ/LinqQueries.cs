@@ -102,7 +102,7 @@ namespace LINQ
         }
 
         public int NumberOfBooksMoreThan450(){
-            return bookCollection.Count(book => book.PageCount > 450);d
+            return bookCollection.Count(book => book.PageCount > 450);
         }
 
     }

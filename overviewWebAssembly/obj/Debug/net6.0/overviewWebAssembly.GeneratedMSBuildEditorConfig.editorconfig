@@ -11,41 +11,41 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = overviewWebAssembly
 build_property.RootNamespace = overviewWebAssembly
-build_property.ProjectDir = C:\Users\afcab\OneDrive\Documents\2023\Tutoring\Madeeha\MadeehasTutoring\overviewWebAssembly\
+build_property.ProjectDir = c:\Users\afcab\OneDrive\Documents\2023\Tutoring\Madeeha\MadeehasTutoring\overviewWebAssembly\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\afcab\OneDrive\Documents\2023\Tutoring\Madeeha\MadeehasTutoring\overviewWebAssembly
+build_property.MSBuildProjectDirectory = c:\Users\afcab\OneDrive\Documents\2023\Tutoring\Madeeha\MadeehasTutoring\overviewWebAssembly
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/afcab/OneDrive/Documents/2023/Tutoring/Madeeha/MadeehasTutoring/overviewWebAssembly/App.razor]
+[c:/Users/afcab/OneDrive/Documents/2023/Tutoring/Madeeha/MadeehasTutoring/overviewWebAssembly/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/afcab/OneDrive/Documents/2023/Tutoring/Madeeha/MadeehasTutoring/overviewWebAssembly/Pages/Counter.razor]
+[c:/Users/afcab/OneDrive/Documents/2023/Tutoring/Madeeha/MadeehasTutoring/overviewWebAssembly/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/afcab/OneDrive/Documents/2023/Tutoring/Madeeha/MadeehasTutoring/overviewWebAssembly/Pages/FetchData.razor]
+[c:/Users/afcab/OneDrive/Documents/2023/Tutoring/Madeeha/MadeehasTutoring/overviewWebAssembly/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/afcab/OneDrive/Documents/2023/Tutoring/Madeeha/MadeehasTutoring/overviewWebAssembly/Pages/Index.razor]
+[c:/Users/afcab/OneDrive/Documents/2023/Tutoring/Madeeha/MadeehasTutoring/overviewWebAssembly/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/afcab/OneDrive/Documents/2023/Tutoring/Madeeha/MadeehasTutoring/overviewWebAssembly/Shared/SurveyPrompt.razor]
+[c:/Users/afcab/OneDrive/Documents/2023/Tutoring/Madeeha/MadeehasTutoring/overviewWebAssembly/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/afcab/OneDrive/Documents/2023/Tutoring/Madeeha/MadeehasTutoring/overviewWebAssembly/_Imports.razor]
+[c:/Users/afcab/OneDrive/Documents/2023/Tutoring/Madeeha/MadeehasTutoring/overviewWebAssembly/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/afcab/OneDrive/Documents/2023/Tutoring/Madeeha/MadeehasTutoring/overviewWebAssembly/Shared/MainLayout.razor]
+[c:/Users/afcab/OneDrive/Documents/2023/Tutoring/Madeeha/MadeehasTutoring/overviewWebAssembly/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-ok88isqc3z
 
-[C:/Users/afcab/OneDrive/Documents/2023/Tutoring/Madeeha/MadeehasTutoring/overviewWebAssembly/Shared/NavMenu.razor]
+[c:/Users/afcab/OneDrive/Documents/2023/Tutoring/Madeeha/MadeehasTutoring/overviewWebAssembly/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-b1gay9wcq8
