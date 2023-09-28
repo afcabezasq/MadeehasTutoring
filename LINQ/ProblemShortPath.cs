@@ -10,6 +10,7 @@ namespace problem
         public Node(int[] startingPosition) {
             track = new List<int[]>();
             position = startingPosition;
+            track.Add(position);
         }
         public override string ToString(){
             return $"{position[0]},{position[1]}";
@@ -27,7 +28,7 @@ namespace problem
         };
         int[] startingPos = {0, 0};
         int[] finalPos = {5, 5};
-        Dictionary<string,List[int[][]]> trackMap = new Dictionary<string, List[int[][]]>();
+        // Dictionary<string,List[int[]]> trackMap = new Dictionary<string, List[int[]]>();
 
 
         int[][] posibleSteps = {
@@ -42,16 +43,18 @@ namespace problem
         };
 
         public List<int[]> shortPath(){
-            Dictionary<string, int[][]> track = new Dictionary<string, int[][]>();//[[0,1],[2,3]]
+            // Dictionary<string,List< int[]>> track = new Dictionary<string, int[][]>();//[[0,1],[2,3]]
             HashSet<string> visited = new HashSet<string>();//"3,4"
             Queue<Node> queue = new Queue<Node>(); //bfs
         
             Node start = new Node(this.startingPos);
             queue.Enqueue(start);
+            // trackMap.Add(start.ToString(),start.track);
             while(queue.Count != 0){
                 Node currentNode = queue.Dequeue();
                 visited.Add(currentNode.ToString());
-                trackMap.Add(newNode.ToString(), newNode.track);
+                // currentTrack = trackMap[currentNode.ToString()];
+                
                 //Console.WriteLine($"{currentNode.position[0]}, {currentNode.position[1]}");
                 foreach (var step in posibleSteps)
                 {
@@ -63,7 +66,7 @@ namespace problem
                         && grid[potentialStep[0]][potentialStep[1]] == 0 
                         && !visited.Contains(newNode.ToString())) {
                             
-                            newNode.track = currentNode.track;
+                            newNode.track = new List<int[]>(currentNode.track);
                             
                             newNode.track.Add(currentNode.position);
                             queue.Enqueue(newNode);

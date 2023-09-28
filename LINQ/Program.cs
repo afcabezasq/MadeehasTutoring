@@ -7,9 +7,13 @@ using problem;
 
 // LinqQueries collectionQueries = new LinqQueries();
 
-Problem p = new Problem();
+// Problem p = new Problem();
 
-p.displayShortestPath();
+// p.displayShortestPath();
+
+ExamplePriorityQueue ex = new ExamplePriorityQueue();
+
+ex.testPriorityQueu();
 
 // void PrintValues(IEnumerable<Book> booksList)
 // {
