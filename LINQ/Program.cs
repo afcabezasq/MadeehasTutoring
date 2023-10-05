@@ -11,9 +11,21 @@ using problem;
 
 // p.displayShortestPath();
 
-ExamplePriorityQueue ex = new ExamplePriorityQueue();
+Solution sol = new Solution();
+int[][] edges = {
+           new int[] {0,1},
+           new int[] {1,2},
+           new int[] {0,2},
+        };
 
-ex.testPriorityQueu();
+
+double[] props = {
+           0.5,
+           0.5,
+           0.2,
+        };
+
+Console.WriteLine(sol.MaxProbability(3,edges,props,0,2));
 
 // void PrintValues(IEnumerable<Book> booksList)
 // {
