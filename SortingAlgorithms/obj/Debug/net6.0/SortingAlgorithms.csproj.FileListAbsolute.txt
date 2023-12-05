@@ -1,0 +1,15 @@
+C:\Users\afcab\OneDrive\Documents\2023\Tutoring\Madeeha\MadeehasTutoring\SortingAlgorithms\bin\Debug\net6.0\SortingAlgorithms.exe
+C:\Users\afcab\OneDrive\Documents\2023\Tutoring\Madeeha\MadeehasTutoring\SortingAlgorithms\bin\Debug\net6.0\SortingAlgorithms.deps.json
+C:\Users\afcab\OneDrive\Documents\2023\Tutoring\Madeeha\MadeehasTutoring\SortingAlgorithms\bin\Debug\net6.0\SortingAlgorithms.runtimeconfig.json
+C:\Users\afcab\OneDrive\Documents\2023\Tutoring\Madeeha\MadeehasTutoring\SortingAlgorithms\bin\Debug\net6.0\SortingAlgorithms.dll
+C:\Users\afcab\OneDrive\Documents\2023\Tutoring\Madeeha\MadeehasTutoring\SortingAlgorithms\bin\Debug\net6.0\SortingAlgorithms.pdb
+C:\Users\afcab\OneDrive\Documents\2023\Tutoring\Madeeha\MadeehasTutoring\SortingAlgorithms\obj\Debug\net6.0\SortingAlgorithms.csproj.AssemblyReference.cache
+C:\Users\afcab\OneDrive\Documents\2023\Tutoring\Madeeha\MadeehasTutoring\SortingAlgorithms\obj\Debug\net6.0\SortingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afcab\OneDrive\Documents\2023\Tutoring\Madeeha\MadeehasTutoring\SortingAlgorithms\obj\Debug\net6.0\SortingAlgorithms.AssemblyInfoInputs.cache
+C:\Users\afcab\OneDrive\Documents\2023\Tutoring\Madeeha\MadeehasTutoring\SortingAlgorithms\obj\Debug\net6.0\SortingAlgorithms.AssemblyInfo.cs
+C:\Users\afcab\OneDrive\Documents\2023\Tutoring\Madeeha\MadeehasTutoring\SortingAlgorithms\obj\Debug\net6.0\SortingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\afcab\OneDrive\Documents\2023\Tutoring\Madeeha\MadeehasTutoring\SortingAlgorithms\obj\Debug\net6.0\SortingAlgorithms.dll
+C:\Users\afcab\OneDrive\Documents\2023\Tutoring\Madeeha\MadeehasTutoring\SortingAlgorithms\obj\Debug\net6.0\refint\SortingAlgorithms.dll
+C:\Users\afcab\OneDrive\Documents\2023\Tutoring\Madeeha\MadeehasTutoring\SortingAlgorithms\obj\Debug\net6.0\SortingAlgorithms.pdb
+C:\Users\afcab\OneDrive\Documents\2023\Tutoring\Madeeha\MadeehasTutoring\SortingAlgorithms\obj\Debug\net6.0\SortingAlgorithms.genruntimeconfig.cache
+C:\Users\afcab\OneDrive\Documents\2023\Tutoring\Madeeha\MadeehasTutoring\SortingAlgorithms\obj\Debug\net6.0\ref\SortingAlgorithms.dll
